@@ -1,6 +1,6 @@
 ## Hello word!!
 
-I am Jr Back End Engineer at Semantix Brazil, and I have been acting as a programmer for about 2 years, in that time I have learned a lot and realized how working as a team enriches your journey and makes you evolve much more!
+I am Back End Engineer at Semantix Brazil, and I have been acting as a programmer for about 2 years, in that time I have learned a lot and realized how working as a team enriches your journey and makes you evolve much more!
 
 I like to learn new things and help those who need it!
 I’ve been focusing my studies on JavaScript, typescript and architecture.
